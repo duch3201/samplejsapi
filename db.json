@@ -1,0 +1,11 @@
+{
+    "responce": {
+        "alert": "none",
+        "event": "none",
+        "ftemp": "Feels Like 13.9°",
+        "status": "few clouds",
+        "temp": "14.1°",
+        "time": "09:44",
+        "wind_speed": "wind speed 2.57m/s"
+    }
+}
